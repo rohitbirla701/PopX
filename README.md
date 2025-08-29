@@ -23,3 +23,23 @@ The goal was to implement the given **Adobe XD design** into a pixel-perfect Rea
 ---
 
 ## 📂 Project Structure
+
+react-assignment/  
+│── src/  
+│   ├── components/    → Reusable components (Buttons, Header, etc.)  
+│   ├── pages/         → Page components (Home, Login, Profile, etc.)  
+│   ├── App.jsx        → Main app with routes  
+│   └── main.jsx       → Entry point  
+│── public/            → Static assets  
+│── package.json  
+│── tailwind.config.js  
+│── README.md  
+
+---
+
+## ⚙️ Installation & Setup
+
+1. Clone the repository
+   ```bash
+   git clone https://github.com/Akshay1267/PopX.git
+   cd react-assignment
