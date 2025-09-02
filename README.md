@@ -41,5 +41,5 @@ react-assignment/
 
 1. Clone the repository
    ```bash
-   git clone https://github.com/Akshay1267/PopX.git
+   git clone https://github.com/Arohitbirla701/PopX.git
    cd react-assignment
